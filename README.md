@@ -1,2 +1,2 @@
-# todo-list
-create todo-list using ReactJS, NodeJS and MongooseDB
+# Pharmacies API
+Create API to pharmacies using (PHP) Laravel 8 and MYSQL
